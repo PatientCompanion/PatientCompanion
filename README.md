@@ -1,2 +1,2 @@
 # Christy Lee
-Christy Lee's Portfolio
+Christy's Portfolio
