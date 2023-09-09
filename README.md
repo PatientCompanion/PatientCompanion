@@ -1,2 +1,2 @@
-# Christy Lee
-Christy's Portfolio
+# PatientCompanion
+Company website
